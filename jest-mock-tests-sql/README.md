@@ -1,7 +1,6 @@
-# nodejs-tdd-examples
-A simple TDD in Node.js monorepo with various examples.
+# jest-mock-tests-sql
 
-See each Readme file for instructions.
+Para o tutorial de mocking com Sequelize, visite: https://www.luiztools.com.br/post/tdd-como-criar-mocks-em-node-js-com-jest-e-sequelize/ 
 
 ## More
 

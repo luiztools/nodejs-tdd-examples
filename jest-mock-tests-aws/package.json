@@ -1,5 +1,5 @@
 {
-  "name": "mock-tests-2",
+  "name": "jest-mock-tests-aws",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "LuizTools",
+  "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.820.0",
     "dotenv-safe": "^8.2.0"

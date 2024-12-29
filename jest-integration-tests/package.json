@@ -1,5 +1,5 @@
 {
-  "name": "integration-tests",
+  "name": "jest-integration-tests",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,8 +8,8 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "LuizTools",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   },

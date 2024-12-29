@@ -1,7 +1,6 @@
-# nodejs-tdd-examples
-A simple TDD in Node.js monorepo with various examples.
+# jest-integration-tests
 
-See each Readme file for instructions.
+Para o tutorial de integration tests, visite: https://www.luiztools.com.br/post/tdd-como-criar-integration-tests-em-node-js-com-jest/
 
 ## More
 

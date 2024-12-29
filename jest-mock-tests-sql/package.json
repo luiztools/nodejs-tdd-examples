@@ -1,5 +1,5 @@
 {
-  "name": "mock-tests-sql",
+  "name": "jest-mock-tests-sql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "LuizTools",
+  "license": "MIT",
   "dependencies": {
     "dotenv-safe": "^8.2.0",
     "mysql2": "^2.2.5",

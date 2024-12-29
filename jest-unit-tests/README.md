@@ -1,7 +1,5 @@
-# nodejs-tdd-examples
-A simple TDD in Node.js monorepo with various examples.
-
-See each Readme file for instructions.
+# jest-unit-tests
+Para o tutorial de unit tests, visite: https://www.luiztools.com.br/post/tdd-como-criar-unit-tests-em-node-js-com-jest/
 
 ## More
 
